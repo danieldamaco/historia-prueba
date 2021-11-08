@@ -1,2 +1,3 @@
 Texto plano que necesito para que funcionen las versiones de git.
 Ahora este es el primer cambio hecho en la clase. 
+Estoy haciendo una prueba con resero y rm. 
