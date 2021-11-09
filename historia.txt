@@ -4,7 +4,7 @@ Estoy haciendo una prueba con resero y rm.
 Estoy ahora haciendo pruebas con reset solamente. 
 Estoy haciendo pruebas con reset soft.
 Estoy haciendo pruebas con reset hard.
-
-
-
 Voy a proceder a hacer un merge de la rama master y la rama palabra para ver que si se borra la rama palabra.  
+Estoy haciendo pruebas con reset hard. 
+Ahora estoy haciendo cambios y creando ramas para practicar. 
+La rama en la que estoy haciendo todo esto se llama palabra.
